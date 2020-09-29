@@ -36,4 +36,4 @@ print("epsilon [m^2/s^3]= "+str(epsilon)+"\n")
 print("omega [1/s]= "+str(omega)+"\n")
 print("\n")
 
-a = raw_input("Press any key to close")
+a = input("Press any key to close")
