@@ -1,7 +1,7 @@
 
 """
 Created on January 2020 for Python 2.7
-Should work also for Python 3, maybe not the last line
+Should work also for Python 3
 @author: carlopasquinucci : carlo.a.pasquinucci (at) gmail.com
 """
 
