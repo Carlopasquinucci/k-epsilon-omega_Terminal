@@ -28,7 +28,7 @@ For a similar code in which the input data are given via input file, feel free t
 https://github.com/Carlopasquinucci/k-epsilon-omega-python
 
 
-## Explanation ready - Support
+## Explanation - Support
 The code is written in a very simple way, in order to be easily understood, but if you need other explanation, feel free to contact me:
 
 mail: carlo.a.pasquinucci (at) gmail.com
