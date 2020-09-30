@@ -1,25 +1,25 @@
 # k-epsilon-omega_Terminal
 
-Off-line calculator of k omega and epsilon
+**Off-line calculator for** ***turbulent values***.
 
 ## Content  
-In this repository you can find an offline calculator for k omega and epsilon values for turbulent CFD simulations.
+In this repository you can find an offline calculator for turbulent values for CFD simulations.
 
-In this repository you can find a simple Python code that read
+In this repository you can find a simple Python code and a .exe file that read
 
-1_ Velocity
+1 Velocity
 
-2_ Turbulence length scale
+2 Turbulence length scale
 
-3_ Turbulence intensity
+3 Turbulence intensity
 
 from the terminal and write:
 
-1_ Turbulence kinetic energy	(k) [m^2/s^2]
+1 Turbulence kinetic energy	(k) [m^2/s^2]
 
-2_ Turbulence dissipation (ε) [m^2/s^3]
+2 Turbulence dissipation (ε) [m^2/s^3]
 
-3_ Specific tubulence dissipation (omega) [1/s]
+3 Specific tubulence dissipation (omega) [1/s]
 
 on the terminal
 
@@ -35,7 +35,7 @@ mail: carlo.a.pasquinucci (at) gmail.com
 
 skype: carlo_pasquinucci
 
-linkedIn: https://www.linkedin.com/in/carloaugustopasquinucci/
+[LinkedIn](https://www.linkedin.com/in/carloaugustopasquinucci/)
 
 
 ## Disclaimer
